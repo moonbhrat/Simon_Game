@@ -1,1 +1,2 @@
-# Simon_Game
+# Simon_Game...
+This is the game developed by Shashank srivastava Using HTML,CSS,JS
